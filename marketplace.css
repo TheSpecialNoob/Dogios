@@ -17,3 +17,57 @@ body {
 .utilb {
   font-size: 24px;
 }
+iframe {
+  width: 100%;
+  height: 1000px;
+}
+
+.marketplace-page-socials-bar4138 {
+  width: 100%;
+  display: flex;
+  align-self: flex-end;
+  box-sizing: border-box;
+  align-items: flex-end;
+  flex-shrink: 1;
+  border-color: transparent;
+  justify-content: flex-start;
+  background-color: rgba(54, 207, 241, 1);
+}
+.marketplace-page-link4 {
+  margin-left: 30px;
+}
+.marketplace-page-you-tube-original4143 {
+  margin-left: 30px;
+}
+.marketplace-page-link3 {
+  margin-left: 30px;
+}
+
+.marketplace-page-medium-original4142 {
+  margin-left: 20px;
+}
+.marketplace-page-link2 {
+  margin-left: 20px;
+}
+.marketplace-page-image6 {
+  margin-left: 20px;
+}
+
+.marketplace-page-discord-original4141 {
+  margin-left: 10px;
+}
+.marketplace-page-discord-original-i4141468 {
+  margin-left: 10px;
+}
+.marketplace-page-link1 {
+  margin-left: 10px;
+}
+.marketplace-page-image5 {
+  margin-left: 10px;
+}
+.marketplace-page-link {
+  margin-left: 10px;
+}
+.marketplace-page-image4 {
+  margin-left: 10px;
+}
