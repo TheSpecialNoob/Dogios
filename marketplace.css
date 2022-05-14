@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  justify-content: center;
+}
+.mheader {
+  background-color: aqua;
+  width: 100%;
+  height: 50px;
+}
+.marketb {
+  background-color: #26bc39;
+  font-size: 24px;
+}
+.mintb {
+  font-size: 24px;
+}
+.utilb {
+  font-size: 24px;
+}

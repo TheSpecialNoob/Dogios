@@ -1,0 +1,133 @@
+.marketplace-page-twitter-original4140 {
+  left: 247px;
+  width: 70px;
+  bottom: 0px;
+  height: 70px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-end;
+  border-color: transparent;
+  flex-direction: row;
+}
+.marketplace-page-link {
+  display: contents;
+}
+.marketplace-page-image4 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  text-decoration: none;
+}
+.marketplace-page-link1 {
+  display: contents;
+}
+.marketplace-page-discord-original4141 {
+  left: 398px;
+  width: 70px;
+  bottom: 0px;
+  height: 70px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-end;
+  border-color: transparent;
+  flex-direction: row;
+}
+.marketplace-page-discord-original-i4141468 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.marketplace-page-image5 {
+  top: 7.697550296783447px;
+  left: 0px;
+  width: 70px;
+  height: 53px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.marketplace-page-medium-original4142 {
+  left: 565px;
+  width: 70px;
+  bottom: 0px;
+  height: 70px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-end;
+  border-color: transparent;
+  flex-direction: row;
+}
+.marketplace-page-link2 {
+  display: contents;
+}
+.marketplace-page-image6 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.marketplace-page-link3 {
+  display: contents;
+}
+.marketplace-page-you-tube-original4143 {
+  left: 732px;
+  width: 70px;
+  bottom: 0px;
+  height: 70px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-end;
+  border-color: transparent;
+  flex-direction: row;
+}
+.marketplace-page-image7 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.marketplace-page-link4 {
+  display: contents;
+}
+.marketplace-page-github-original4144 {
+  left: 912px;
+  width: 70px;
+  bottom: 0px;
+  height: 70px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-end;
+  border-color: transparent;
+  flex-direction: row;
+}
+.marketplace-page-image8 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
